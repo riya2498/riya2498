@@ -1,7 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm **Riya Chaddha**
 
-<!--
-**riya2498/riya2498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist & Data Engineer | MS Information Systems ’25**
+
+📫 Reach me: chaddha.ri@northeastern.edu • (857) 405‑9051  
+🔗 [[LinkedIn](https://www.linkedin.com/in/riya-chaddha-73321a145)](#) • [[GitHub](https://github.com/riya2498)](#)
+
+---
+## 🎯 About Me
+
+I’m passionate about **big data, cloud platforms, and transforming raw datasets into actionable insights**. With hands-on experience in designing scalable data pipelines and creating intelligent analytics solutions, I enjoy solving real-world problems using data engineering and machine learning techniques.
+
+---
+
+## 💼 What I've Built
+
+<img src="https://via.placeholder.com/150" alt="Teaching" width="120"/> **Graduate Teaching Assistant, Northeastern**  
+- Led SQL and data warehousing labs, boosting engagement by 67% with interactive assessments.  
+
+<img src="https://via.placeholder.com/150" alt="Data Engineering" width="120"/> **Data Engineer, LTIMindtree**  
+- Built ELT pipelines (10M+ records/day) using Snowflake + Airflow, improving data freshness by 40%.
 
 Here are some ideas to get you started:
 
