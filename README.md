@@ -38,12 +38,14 @@ With hands-on experience in <strong>Azure</strong>, <strong>Snowflake</strong>, 
 
 ### 🛠️ Tech Toolbox
 
-#### Languages & Scripting
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=postgresql)
-![Bash](https://img.shields.io/badge/Bash-darkgreen?logo=gnubash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+#### 🧑‍💻 Languages & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-lightgrey?logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Bash-darkgreen?logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+</p>
 
 #### 🧪 Libraries & Frameworks
 <p>
@@ -75,25 +77,21 @@ With hands-on experience in <strong>Azure</strong>, <strong>Snowflake</strong>, 
 
 ### 🚀 Featured Projects
 
-- **🩺 [MedPal – AI Healthcare Assistant](<YOUR_PROJECT_LINK>)**  
+- **🩺 [MedPal – AI Healthcare Assistant](https://github.com/riya2498/MedPal)**  
   *FLAN-T5, Sentence-Transformers, Weaviate*  
   Built a context-aware medical Q&A tool with dense retrieval and prompt engineering to simplify clinical support.
 
-- **📺 [Video Ad Classifier](<YOUR_PROJECT_LINK>)**  
+- **📺 [Video Ad Classifier](https://github.com/riya2498/Video-Advertisement-Classifier-using-LLM)**  
   *DistilBERT, Annotation Pipeline, Tableau*  
   Designed a classifier for video ads spanning 21 binary labels with 75% annotation agreement; visualized insights on emotional tone.
 
-- **🚧 [Crash Data ETL & Analytics](<YOUR_PROJECT_LINK>)**  
+- **🚧 [Crash Data ETL & Analytics](https://github.com/riya2498/Bike-Crash-Data-Analysis-using-BI)**  
   *Talend, Azure SQL, Power BI*  
   Ingested 3M+ records with SCD2 modeling to extract traffic insights and enhance safety dashboards.
 
-- **🎮 [Video Game Sales Dashboard](<YOUR_PROJECT_LINK>)**  
+- **🎮 [Video Game Sales Dashboard](https://github.com/riya2498/Healthcare_Repo)**  
   *Python, Pandas, Power BI*  
   Analyzed global and regional sales trends to guide publisher strategy across genres and platforms.
-
-- **📄 [AI Resume Analyzer](<YOUR_PROJECT_LINK>)**  
-  *LangChain, Pinecone, Streamlit*  
-  Built an interactive app for recruiters to match resumes to jobs using vector search and semantic similarity.
 
 - **💰 [Financial NER](https://github.com/riya2498/Finer-ORD-NER-LLM)**  
   *BERT, Hugging Face, FiNER-ORD*  
@@ -104,8 +102,8 @@ With hands-on experience in <strong>Azure</strong>, <strong>Snowflake</strong>, 
 
 ### 🎓 Education
 
-🎓 MS in Information Systems, Northeastern University  
-🎓 BE in Computer Science, University of Pune  
+ Master of Science in Information Systems, Northeastern University  
+ Bachelor of Engineering in Computer Science, University of Pune  
 
 ---
 
