@@ -21,8 +21,6 @@ With hands-on experience in <strong>Azure</strong>, <strong>Snowflake</strong>, 
 ### 💼 What I'm Working On
 - 🔬 **Research Data Scientist @ Mellicell**: Automating microscopy data pipelines to accelerate obesity & inflammation research.  
   Building spatial analysis workflows using BigQuery & GCP to detect grid structures in cell images.
-- 🧑‍🏫 **Teaching SQL & Data Warehousing** at Northeastern using Snowflake, Docker, and Azure SQL
-- 📊 **Visual Analytics** for marketing & sleep-disorder research using Tableau & regression modeling
 
 ---
 ### 💼 Previous Experience
@@ -97,7 +95,7 @@ With hands-on experience in <strong>Azure</strong>, <strong>Snowflake</strong>, 
   *LangChain, Pinecone, Streamlit*  
   Built an interactive app for recruiters to match resumes to jobs using vector search and semantic similarity.
 
-- **💰 [Financial NER]([<YOUR_PROJECT_LINK>](https://github.com/riya2498/Finer-ORD-NER-LLM))**  
+- **💰 [Financial NER](https://github.com/riya2498/Finer-ORD-NER-LLM)**  
   *BERT, Hugging Face, FiNER-ORD*  
   Developed a real-time financial text parsing tool with an F1-score of 0.877 using fine-tuned BERT models.
 
