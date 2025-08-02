@@ -1,6 +1,8 @@
-# 👋 Hi there, I'm **Riya Chaddha**
+<h1 align="center">Hi, I'm Riya Chaddha 👋</h1>
 
-**Data Scientist & Data Engineer | MS Information Systems ’25**
+<p align="center">
+  <em>Data Engineer | Cloud Enthusiast | Insights Builder</em>
+</p>
 
 📫 Reach me: chaddha.ri@northeastern.edu • (857) 405‑9051  
 🔗 [[LinkedIn](https://www.linkedin.com/in/riya-chaddha-73321a145)](#) • [[GitHub](https://github.com/riya2498)](#)
