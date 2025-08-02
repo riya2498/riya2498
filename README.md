@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Riya Chaddha 👋</h1>
 
 <p align="center">
-  <em>Data Engineer | Cloud Enthusiast | Insights Builder</em>
+  <i>Data Engineer | Research Data Scientist | Analytics Enthusiast</i><br>
+  Turning raw data into clarity and strategy ⚙️📊
 </p>
 
-<h1 align="center">Hi, I'm Riya Chaddha 👋</h1>
-
 <p align="center">
-  <em>Data Engineer | Cloud Enthusiast | Insights Builder</em>
+  <a href="https://www.linkedin.com/in/riyachaddha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:riyachaddha@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Data%20Science%20Enthusiast-%F0%9F%A4%AB-blueviolet?style=flat-square"/>
 </p>
 
 ---
@@ -46,16 +47,25 @@ With hands-on experience in <strong>Azure</strong>, <strong>Snowflake</strong>, 
 
 ---
 
-### 📚 Featured Projects
+### 🚀 Featured Projects
 
-| 🔧 Project | 📌 Description |
-|-----------|----------------|
-| [🔬 Video Ad Classifier](https://github.com/riya2498/advertisement-classifier) | NLP-powered ad content tagging using DistilBERT for marketing teams |
-| [🚗 Crash Data ETL](https://github.com/riya2498/motor-vehicle-crash-data) | Automated Talend + Azure pipelines with SCD2 modeling |
-| [🍽️ Food Inspection](https://github.com/riya2498/food-inspection-analysis) | Azure-based pipeline with star schema and Power BI dashboards |
-| [📈 Video Game Sales](https://github.com/riya2498/vg-sales-analysis) | Tableau dashboards + EDA on Metacritic + VGChartz data |
+- 🩺 <b>MedPal – AI Healthcare Assistant</b> | <i>FLAN-T5, Sentence-Transformers, Weaviate</i>  
+  Context-aware medical QA assistant with dense retrieval and prompt engineering.
+
+- 📺 <b>Video Ad Classifier</b> | <i>DistilBERT, Annotation Pipeline, Tableau</i>  
+  Classified ads across 21 categories with 75% annotation agreement and visualization dashboards.
+
+- 🚧 <b>Crash Data ETL & Analytics</b> | <i>Talend, Azure SQL, Power BI</i>  
+  Ingested 3M+ records using SCD2 for crash pattern analysis and trend reporting.
+
+- 🎮 <b>Video Game Sales Dashboard</b> | <i>Python, Pandas, Power BI</i>  
+  Explored global sales KPIs by genre/platform to derive strategic insights.
+
+- 💰 <b>Financial NER</b> | <i>BERT, Hugging Face, FiNER-ORD</i>  
+  Real-time pipeline for named entity recognition in financial documents (F1: 0.877).
 
 ---
+
 
 ### 🎓 Education
 
@@ -71,4 +81,5 @@ With hands-on experience in <strong>Azure</strong>, <strong>Snowflake</strong>, 
 
 ---
 
-_“I love finding the story in the data, building pipelines to get there, and scaling the solution so others can benefit too.”_
+_“When I'm not decoding data pipelines or tinkering with models, you'll find me dancing, curating playlists, or sipping strong filter coffee.  
+⚡ Clean data is my caffeine... though the coffee doesn’t hurt either.”_
